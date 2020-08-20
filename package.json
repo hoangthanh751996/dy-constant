@@ -1,0 +1,23 @@
+{
+  "name": "dy-constant",
+  "version": "1.1.1",
+  "description": "[https://github.com/hoangthanh751996/dy-constant.git](https://github.com/hoangthanh751996/dy-constant.git)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangthanh751996/dy-constant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangthanh751996/dy-request/issues"
+  },
+  "homepage": "https://github.com/hoangthanh751996/dy-request#readme",
+  "dependencies": {
+    "dy-logger": "^1.1.1",
+    "dy-request": "^1.1.1"
+  }
+}
